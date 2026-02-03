@@ -27,6 +27,7 @@ In progress - expanding dashboards and automation
 ## SQL Logic
 - [cfDNA QC Metrics](sql/cfdna_qc_metrics.sql)
 - [UC500 Dashboard Status](sql/check_uc500_dashboard_status)
+- Description: generated sql query that coverts raw cfDNA tracking data into 5 CTEs - Extracted (yes/no), Passes 50ng total DNA Yield (yes/no), Sequenced? (yes/no), Needs Sequencing (yes/no) and Dashboard Status
 
 ## Dashboard Outputs
 - [Dashboard PDF](outputs/R01_Retro_ME_cfDNA_Extraction_Sample_Tracker_23JAN26.pdf)
