@@ -26,7 +26,7 @@ In progress - expanding dashboards and automation
 
 ## SQL Logic**
 - [cfDNA QC Metrics](sql/cfdna_qc_metrics.sql)
-- [check UC500 Dashboard Status](sql/check_uc500 dashboard_status.sql)
+- [UC500 Dashboard Status](sql/check_uc500 dashboard_status.sql)
 
 ## Dashboard Outputs**
 -[Dashboard PDF](outputs/R01_Retro_ME_cfDNA_Extraction_Sample_Tracker_23JAN26.pdf)
