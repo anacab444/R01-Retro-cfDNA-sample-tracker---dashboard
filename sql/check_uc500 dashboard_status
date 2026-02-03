@@ -1,0 +1,13 @@
+#Check uc500 Dashboard Stauts
+-- Not Extracted
+-- Sequenced
+-- Extracted but <50ng 
+-- Review
+-- Needs UC500 Sequencing
+
+SELECT
+ dashboard_status,
+ COUNT(*) AS n
+ FROM`procurement-analytics-482818.R01_retro_me_cfdna_tracking.vw_uc500_dashboard`
+ GROUP BY dashboard_status
+ ORDER BY n DESC;
