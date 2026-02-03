@@ -24,8 +24,12 @@ This project analyzes cfDNA extraction yield and QC metrics using:
 ## Status
 In progress - expanding dashboards and automation
 
-## SQL Queries 
+## SQL Logic**
 - [cfDNA QC Metrics](sql/cfdna_qc_metrics.sql)
+- [check UC500 Dashboard Status](sql/check_uc500 dashboard_status)
+
+## Dashboard Outputs**
+-[Dashboard PDF](
 
 ##Author
 Ana Cabrera
