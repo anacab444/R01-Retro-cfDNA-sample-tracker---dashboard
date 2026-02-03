@@ -29,7 +29,7 @@ In progress - expanding dashboards and automation
 - [check UC500 Dashboard Status](sql/check_uc500 dashboard_status)
 
 ## Dashboard Outputs**
--[Dashboard PDF](
+-[Dashboard PDF](outputs/R01_Retro_ME_cfDNA_Extraction_Sample_Tracker_23JAN26.pdf)
 
 ##Author
 Ana Cabrera
